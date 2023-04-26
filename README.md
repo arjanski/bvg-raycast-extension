@@ -1,5 +1,8 @@
 # Berlin Public Transportation Raycast Extension
 
+![berlin-public-transportation-2](https://user-images.githubusercontent.com/13831998/234491625-8c6d6d59-e7cd-42ca-a542-8651435ce3dd.png)
+
+
 This [Raycast](https://www.raycast.com) extension let's you search Berlin's public transport based on BVG real-time traffic data. 
 
 ## Features
